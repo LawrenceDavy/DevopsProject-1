@@ -9,7 +9,7 @@ Tools included:
 - GitHub - distributed version control system
 - Maven - java build tool
 - Jenkins - continuous integration tool
-- Ansible - configuration management under deployment
-- Docker - containerization
+- Ansible - configuration managemen
+- Docker - containerisation
 - Kubernetes - container management
 - AWS - cloud
